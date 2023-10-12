@@ -103,7 +103,7 @@ class App extends Component {
                 </Form.Group>
                 <br />
                 <Button variant="primary" onClick={this.handleAddTodo}>
-                  Add Todo
+                  Add
                 </Button>
               </Form>
             </Col>
